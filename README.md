@@ -1,4 +1,4 @@
-#h1 IoT webapp used to control arduino
+# IoT webapp used to control arduino
 
 Install needed modules:
 	npm install
