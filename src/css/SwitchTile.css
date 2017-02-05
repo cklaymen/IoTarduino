@@ -1,0 +1,22 @@
+.switchTile {
+    background: #EEEEEE;
+    margin: 0 5px 5px 0;
+    float: left;
+    padding: 5px 10px;
+    -webkit-transition: .2s;
+    transition: .2s;
+    position: relative;
+    width: 60px;
+    color: #BBBBBB;
+}
+
+.switchTile.enabled {
+    background: #FFEEAA;
+    color: #BBAA66;
+}
+
+.switchTile .header {
+    font-size: 56px;
+    font-weight: bold;
+    text-align: center;
+}

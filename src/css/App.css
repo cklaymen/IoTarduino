@@ -1,0 +1,21 @@
+body {
+    font-family: Arial;
+}
+
+.name-header {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: #EEEEEE;
+    color: #BBBBBB;
+    text-align: center;
+    padding: 7px;
+}
+
+.app {
+    max-width: 685px;
+    margin: 0 auto;
+}
+
+.tiles-container {
+    padding-left: 5px;
+}
